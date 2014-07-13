@@ -1,6 +1,6 @@
 #!/usr/bin/env lua
 
--- script to update names of all file in a specific directory with uppercase or lowercase
+-- script to help me update names of all file in a specific directory with uppercase or lowercase
 -- author: Evandro Leopoldino Gonçalves <evandrolgoncalves@gmail.com>
 -- https://github.com/evandrolg
 -- Licence: MIT
